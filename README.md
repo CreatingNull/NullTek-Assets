@@ -1,4 +1,4 @@
-# ![NullTek Documentation](https://github.com/CreatingNull/NullTek-Assets/img/logo/NullTekDocumentationLogo.png) Arduino Null Packet Comms
+# ![NullTek Documentation](https://raw.githubusercontent.com/CreatingNull/NullTek-Assets/main/img/logo/NullTekDocumentationLogo.png) NullTek Assets
 
 [![License](https://img.shields.io/:license-CC%20BY%204-blue.svg?style=flat-square)](LICENSE.md)
 
